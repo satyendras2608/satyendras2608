@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satyendras2608
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning CSS
+- 👀 I’m interested in embedded systems, VLSI and AIML.
+- 🌱 I’m currently learning verilog prohramming
 - 📫 My email ID is satyendrasri26@gmail.com
 
 <!---
