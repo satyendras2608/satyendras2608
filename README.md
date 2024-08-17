@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satyendras2608
 - 👀 I’m interested in embedded systems, VLSI and AIML.
-- 🌱 I’m currently learning verilog prohramming
+- 🌱 I’m currently learning verilog programming
 - 📫 My email ID is satyendrasri26@gmail.com
 
 <!---
